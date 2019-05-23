@@ -13,7 +13,7 @@ https://blog.csdn.net/huaxun66/article/details/78135556
     * System runtime layer
     * Linux Kernel layer
 
-![Android System Archiecture](/images/android_system_architecture.png  "Android System Architecture")
+![Android System Archiecture]("/images/android_system_architecture.png"  "Android System Architecture")
 
 ## Application layer
 
