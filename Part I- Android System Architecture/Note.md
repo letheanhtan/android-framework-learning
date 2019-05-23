@@ -13,7 +13,7 @@ https://blog.csdn.net/huaxun66/article/details/78135556
     * System runtime layer
     * Linux Kernel layer
 
-![Android System Archiecture]("/images/android_system_architecture.png"  "Android System Architecture")
+![Android System Archiecture](/images/android_system_architecture.jpg  "Android System Architecture")
 
 ## Application layer
 
@@ -128,12 +128,12 @@ Reference link
 ## Whole Frame
 The root directory structure of android 7.0 is shown as following:
 
-![Code structure whole frame](/images/code_structure_whole_frame.png  "Code structure whole frame")
+![Code structure whole frame](/images/code_structure_whole_frame.jpg  "Code structure whole frame")
 
 
 ## Application layer
 
-![Code structure application layer](/images/code_structure_application_layer.png  "Code structure application layer")
+![Code structure application layer](/images/code_structure_application_layer.jpg  "Code structure application layer")
 
 
 ## Application framework layer
@@ -146,4 +146,4 @@ The root directory structure of android 7.0 is shown as following:
 
 * The frameworks/base directory structure is as follow:
 
-![Code structure frameworks/base](/images/code_structure_frameworks_base.png  "Code structure frameworks/base")
+![Code structure frameworks/base](/images/code_structure_frameworks_base.jpg  "Code structure frameworks/base")
